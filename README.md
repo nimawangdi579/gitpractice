@@ -1,5 +1,5 @@
 # gitpractice
-Author: Nima Wangdi
+Author: Nima Wangdi.
 <br>
 Introduction
 <br>
